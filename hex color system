@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Hex Colors Example</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <h1>Hexadecimal Colors in CSS</h1>
+
+  <div class="box red">Hex: #FF0000 (Red)</div>
+  <div class="box green">Hex: #00FF00 (Green)</div>
+  <div class="box blue">Hex: #0000FF (Blue)</div>
+  <div class="box purple">Hex: #800080 (Purple)</div>
+  <div class="box custom">Hex: #FFD700 (Gold)</div>
+
+</body>
+</html>
